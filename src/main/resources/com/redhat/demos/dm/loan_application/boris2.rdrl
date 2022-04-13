@@ -1,0 +1,9 @@
+package com.redhat.demos.dm.loan_application;
+
+import java.lang.Number;
+
+rule "boris2"
+	dialect "mvel"
+	when
+	then
+end
