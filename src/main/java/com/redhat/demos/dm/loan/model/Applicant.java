@@ -5,8 +5,7 @@ package com.redhat.demos.dm.loan.model;
  */
 
 /* add comment by boris test */
-/* add comment by boris test */
-/* add comment by boris test Apr-21 */
+/* add comment by boris test 3 */
 
 public class Applicant implements java.io.Serializable {
 
